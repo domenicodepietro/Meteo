@@ -37,14 +37,14 @@ body {
   height: 32rem;
 }
 .carousel-inner .image1 {
-  background-image: url("img/milano.jpg");
+  background-image: url("../img/milano.jpg");
 }
 .carousel-inner .image2 {
-  background-image: url("img/polignano2.jpg");
+  background-image: url("../img/polignano2.jpg");
   opacity: 0.8;
 }
 .carousel-inner .image3 {
-  background-image: url("img/polignano3.jpg");
+  background-image: url("../img/polignano3.jpg");
 }
 
 

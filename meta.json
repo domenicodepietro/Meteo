@@ -1,0 +1,24 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Milan, Italy",
+      "postalCode": "I-20131",
+      "streetAddress": "Via Celoria, 18"
+    },
+    "email": "domenico.depietro(at)studenti.unimi.it",
+    "member": [
+      {
+        "@type": "Organization"
+      }
+    ],
+    "alumni": [
+      {
+        "@type": "Person",
+        "name": "Domenico de Pietro"
+      }
+    ],
+    "name": "Google.org (GOOG)",
+    "telephone": "(+39) 377 1705 044"
+  }
